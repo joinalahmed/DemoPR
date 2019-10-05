@@ -54,7 +54,7 @@
    ```
 7. Check the changes are reflected in your repository - `https://github.com/<username>/DemoPR`
 8. Create a Pull Request on the original repo([https://github.com/mbtamuli/DemoPR/](https://github.com/mbtamuli/DemoPR/)) 🚀
-9. Do **Star** this repo! 😃
+9. Do **Star** ⭐ this repo to show some love. 🤩
 
 
 ## Reading Material

@@ -9,9 +9,13 @@
    ```sh
    git clone https://github.com/<username>/DemoPR
    ```
-3. Write your username and your favourite author as given below in the `README.md` file.
+3. Write your username and your favourite author as given below in the `README.md` file. Add three spaces before each of the links you add so it comes under your name.(The three spaces represented by the dot `⋅` here)
    ```md
-   - __<username>__ - Favourite Author
+   - [<username>](https://github.com/username)
+   ⋅⋅⋅- Blog Link
+   ⋅⋅⋅- Twitter Link
+   ⋅⋅⋅- LinkedIn Link
+   ⋅⋅⋅- Dribble/CodePen/Stack Overflow or any other web presence
    ```
 4. Add the file to the staging area
    ```sh
@@ -35,6 +39,9 @@ Part 2 - https://thenewstack.io/git-with-the-program-getting-started-with-github
 Part 3 - https://thenewstack.io/getting-legit-with-git-and-github-cloning-and-forking/  
 Part 4 - https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/  
 
-## Favourite Author
+## Hacktoberfest Guwahati Members
 
-- **mbtamuli** - Stephen Baxter
+- [mbtamuli](https://github.com/mbtamuli)
+   - https://mriyam.dev/
+   - https://twitter.com/mbtamuli
+   - https://www.linkedin.com/in/mbtamuli

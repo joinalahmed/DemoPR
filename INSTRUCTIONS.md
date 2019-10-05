@@ -7,7 +7,13 @@
    ```sh
    git clone https://github.com/<username>/DemoPR
    ```
-3. Write your username and add your profile links on various sites in the [README.md](README.md) file. Add three spaces before each of the links you add so it comes under your name.(The three spaces represented by the dot `⋅` here)
+3. Create a new branch
+   ```sh
+   git checkout -b add-name-<username>
+   # For example,
+   git checkout -b add-name-einstein
+   ```
+4. Write your username and add your profile links on various sites in the [README.md](README.md) file. Add three spaces before each of the links you add so it comes under your name.(The three spaces represented by the dot `⋅` here)
    ```md
    - [<username>](https://github.com/username)
    ⋅⋅⋅- Blog Link
@@ -15,11 +21,11 @@
    ⋅⋅⋅- LinkedIn Link
    ⋅⋅⋅- [OPTIONAL] Dribble/CodePen/Stack Overflow or any other web presence
    ```
-4. Add the file to the staging area
+5. Add the file to the staging area
    ```sh
    git add README.md
    ```
-5. Commit your file
+6. Commit your file
    ```sh
    git commit -m "Add name - <username>"
    ```
@@ -42,9 +48,9 @@
    ```
    
    
-6. Push your changes to your repository
+7. Push the branch you created to GitHub
    ```sh
-   git push origin master
+   git push origin add-name-<username>
    ```
 7. Check the changes are reflected in your repository - `https://github.com/<username>/DemoPR`
 8. Create a Pull Request on the original repo([https://github.com/mbtamuli/DemoPR/](https://github.com/mbtamuli/DemoPR/)) 🚀

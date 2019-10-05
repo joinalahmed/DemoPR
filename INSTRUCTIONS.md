@@ -13,7 +13,7 @@
    ⋅⋅⋅- Blog Link
    ⋅⋅⋅- Twitter Link
    ⋅⋅⋅- LinkedIn Link
-   ⋅⋅⋅- Dribble/CodePen/Stack Overflow or any other web presence
+   ⋅⋅⋅- [OPTIONAL] Dribble/CodePen/Stack Overflow or any other web presence
    ```
 4. Add the file to the staging area
    ```sh

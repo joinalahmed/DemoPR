@@ -7,7 +7,7 @@
    ```sh
    git clone https://github.com/<username>/DemoPR
    ```
-3. Write your username and your favourite author as given below in the `README.md` file. Add three spaces before each of the links you add so it comes under your name.(The three spaces represented by the dot `⋅` here)
+3. Write your username and add your profile links on various sites in the [README.md](README.md) file. Add three spaces before each of the links you add so it comes under your name.(The three spaces represented by the dot `⋅` here)
    ```md
    - [<username>](https://github.com/username)
    ⋅⋅⋅- Blog Link
